@@ -1,0 +1,4 @@
+pip packages: pygame 
+              (others are defaulted in)
+
+also needs tk if not already installed
